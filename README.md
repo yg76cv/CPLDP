@@ -55,7 +55,7 @@ Extraction code: xtrs
 
 
 Citation
-If you use this code, please cite the corresponding CPLDP paper:
+If you find our work useful for your research, please consider citing the paper:
 @inproceedings{yao2026conditional,
   title={Conditional Prompt Learning via Degradation Perception for Underwater Image Enhancement},
   author={Yao, Mingze and Jiang, Zhiying and Fu, Xianping and Wang, Huibing},
@@ -65,13 +65,8 @@ If you use this code, please cite the corresponding CPLDP paper:
   pages={11892--11900},
   year={2026}
 }
-Citation
-If you use this code, please cite the corresponding CPLDP paper:
-@article{yao2026cpldp,
-  title={Conditional Prompt Learning via Degradation Perception for Underwater Image Enhancement},
-  author={Yao, Mingze and Jiang, Zhiying and Fu, Xianping and Wang, Huibing},
-  year={2026},
-  note={Manuscript}
-}
+
+
+
 Contact
 If you have any questions, please feel free to reach out at ymz0284@dlmu.edu.cn.
