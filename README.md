@@ -54,8 +54,10 @@ Link: https://pan.baidu.com/s/1Vc7ohTtA1EHpj5vXrY5pwg?pwd=xtrs
 Extraction code: xtrs
 
 
-Citation
+
+## Citation
 If you find our work useful for your research, please consider citing the paper:
+```bibtex
 @inproceedings{yao2026conditional,
   title={Conditional Prompt Learning via Degradation Perception for Underwater Image Enhancement},
   author={Yao, Mingze and Jiang, Zhiying and Fu, Xianping and Wang, Huibing},
@@ -65,8 +67,8 @@ If you find our work useful for your research, please consider citing the paper:
   pages={11892--11900},
   year={2026}
 }
+```
 
 
-
-Contact
+## Contact
 If you have any questions, please feel free to reach out at ymz0284@dlmu.edu.cn.
