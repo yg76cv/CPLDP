@@ -50,7 +50,7 @@ haze.txt        -> 4
 Download Labels and weights
 The non-overlapping 890-image degradation annotation split is available from Baidu Netdisk:
 File: CPLDP-label
-Link: https://pan.baidu.com/s/1Vc7ohTtA1EHpj5vXrY5pwg?pwd=xtrs
+Link: https://pan.baidu.com/s/1Vc7ohTtA1EHpj5vXrY5pwg?
 Extraction code: xtrs
 
 
