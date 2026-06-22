@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+Pillow
+tqdm
+pyiqa
+ftfy
+regex
